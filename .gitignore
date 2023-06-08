@@ -1,0 +1,6 @@
+/.vscode
+/Data
+/helmut.log
+/PowerLineScrape.py
+/pytest_splunk_addon.log
+/__pycache__
